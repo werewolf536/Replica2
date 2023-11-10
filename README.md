@@ -35,9 +35,9 @@ SAN-кластер.
 |-----|----|----|
 |**users**        |**books**        |**stores**        |
 |user_id (primary)|book_id (primary)|store_id (primary)|
-|first_name       |title            |sity              |
+|first_name       |title            |city              |
 |last_name        |author           |address           |
-|email            |type             |maneger           |
+|email            |type             |manager           |
 |phone            |price            |                  |
 |book_id          |                 |                  |
 
@@ -47,9 +47,9 @@ SAN-кластер.
 |-----|----|----|
 |**users**        |**books**        |**stores**        |
 |user_id (primary)|book_id (primary)|store_id (primary)|
-|first_name       |title            |sity              |
+|first_name       |title            |city              |
 |last_name        |author           |address           |
-|email            |type             |maneger           |
+|email            |type             |manager           |
 |phone            |price            |                  |
 |book_id          |                 |                  |
 
@@ -78,9 +78,9 @@ SAN-кластер.
 |----|
 |**stores**        |
 |store_id (primary)|
-|sity              |
+|city              |
 |address           |
-|maneger           |
+|manager           |
 
 
 
